@@ -50,7 +50,7 @@ This repo contains clean and well-structured C++ solutions to core Data Structur
    cd DSA_3rdSem
 
 2. Compile and run any file:
-
-  g++ filename.cpp -o output
-  ./output
+   ```bash
+     g++ filename.cpp -o output
+     ./output
 
